@@ -1,2 +1,2 @@
-# ReactStyling
+# greet.js
 Created with CodeSandbox
